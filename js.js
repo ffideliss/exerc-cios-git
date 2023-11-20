@@ -9,3 +9,7 @@ function doNothing(){
 function sumStuff(a, b){
     return a + b
 }
+
+function subtractStuff(a, b){
+    return a - b
+}
