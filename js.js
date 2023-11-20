@@ -5,3 +5,7 @@ function doSomething(){
 function doNothing(){
     console.log('do nothing')
 }
+
+function sumStuff(a, b){
+    return a + b
+}
